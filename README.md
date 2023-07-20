@@ -3,8 +3,8 @@ I created a interactive dashboard regarding Road Accident Analysis.
 
 Steps involved :
 
-Extracting the data from Kaggle.
-Transforming the data in Power Query in Power BI.
+Extracting the Data from Kaggle.
+Transforming the Data in Power Query in Power BI.
 Loading it in the Power BI and creating dashboard using various charts and DAX queries.
 DESCRIPTION : Accident Analysis & Prevention provides wide coverage of the general areas relating to accidental injury and damage, including the pre-injury and immediate post-injury phases.
 
